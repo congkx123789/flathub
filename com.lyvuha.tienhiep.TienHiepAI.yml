@@ -25,5 +25,5 @@ modules:
       - cp -r share/* /app/share/
     sources:
       - type: archive
-        url: https://github.com/congkx123789/tienhiep-releases/releases/download/v0.11.26/TienHiepAI-linux-x86_64-0.11.26.tar.gz
-        sha256: b834ada596fb60037b0241e2c879d462ec98f2ee52543b12263a6137ffed4a87
+        url: https://github.com/congkx123789/tienhiep-releases/releases/download/v0.11.27/TienHiepAI-linux-x86_64-0.11.27.tar.gz
+        sha256: 5462942a2a3cba55a4a1dced4abc519911ca765ebfe8d52b401d0b96ec14067b
